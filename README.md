@@ -6,7 +6,7 @@ For this project, students were asked to assume that they are a competitor to Sp
 
 ##  Objective
 The objective of this final project for the Data Science Specialization was to act as a competitor to SpaceX to analyze SpaceX data to predict whether the Falcon9 launch would achieve a successful landing.  The project cosists of:
--  Data acquisition via. web-scrpaing and API
+-  Data acquisition via. web-scrpaing, SQL queries and interfacing with an API
 -  Data wrangling to clean the data
 -  Exploratory Data Analysis
 -  Machine Learning Algorithm (Classification)
