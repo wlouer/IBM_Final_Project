@@ -12,6 +12,7 @@ The objective of this final project for the Data Science Specialization was to a
 -  Plotting of Launch Site Locations on maps using the python module Folium
 -  Creating a dashboard app using Plotly Dash
 -  Machine Learning Algorithm (Classification)
+-  Documenting the Approach and the Findings of the Project in a Powerpoint presentation
 
 ##  Author
 -  @wlouer github.com/wlouer
