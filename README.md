@@ -9,6 +9,7 @@ The objective of this final project for the Data Science Specialization was to a
 -  Data acquisition via. web-scrpaing, SQL queries and interfacing with an API
 -  Data wrangling to clean the data
 -  Exploratory Data Analysis
+-  Plotting of Launch Site Locations on maps using the python module Folium
 -  Machine Learning Algorithm (Classification)
 
 ##  Author
