@@ -10,6 +10,7 @@ The objective of this final project for the Data Science Specialization was to a
 -  Data wrangling to clean the data
 -  Exploratory Data Analysis
 -  Plotting of Launch Site Locations on maps using the python module Folium
+-  Creating a dashboard app using Plotly Dash
 -  Machine Learning Algorithm (Classification)
 
 ##  Author
